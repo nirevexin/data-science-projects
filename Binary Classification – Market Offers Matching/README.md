@@ -70,6 +70,7 @@ Data was provided by [Megamarket](https://megamarket.ru/) and includes:
 | Language        | Python 3.10                          |
 | ML Libraries    | LightGBM, Scikit-learn     |
 | Data Handling   | Pandas, NumPy                        |
+| Data Visualization | Matplotlib, Seaborn |
 | Embedding Work  | PCA, Distance Metrics                |
 | Notebooks       | Jupyter                              |
 
