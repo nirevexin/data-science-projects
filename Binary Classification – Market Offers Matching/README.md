@@ -1,7 +1,7 @@
 # 🧠 Binary Classification: Marketplace Product Matching  
-![Python](httpsimg.shields.iobadgePython-3.10-bluelogo=python)  
-![Machine Learning](httpsimg.shields.iobadgeType-Machine%20Learning-green)  
-![Status](httpsimg.shields.iobadgeStatus-Completed-brightgreen)  
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)  
+![Machine Learning](https://img.shields.io/badge/Type-Machine%20Learning-green)  
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ## 📦 Project Summary  
 This project addresses a real-world problem from [Samokat.Tech](https://samokat.tech) — a tech-driven, real-time delivery platform.  
