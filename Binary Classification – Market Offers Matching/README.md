@@ -4,7 +4,8 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ## 📦 Project Summary  
-This project addresses a real-world problem from [Samokat.Tech](https://samokat.tech) — a tech-driven, real-time delivery platform.  
+This project addresses a real-world problem from [Samokat.Tech](https://samokat.tech) — a tech-driven, real-time delivery platform. 
+
 I developed the **final stage of a product matching pipeline**, where the task was to determine whether a seller’s offer matches a catalog product.
 
 It’s a **binary classification problem**, using structured tabular features as well as **image and text embeddings**.
