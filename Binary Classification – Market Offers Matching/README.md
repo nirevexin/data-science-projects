@@ -13,8 +13,7 @@ It’s a **binary classification problem**, using structured tabular features as
 ---
 
 ## 🧾 About Samokat.Tech  
-[Samokat.Tech](https://samokat.tech) powers one of Russia’s most innovative grocery delivery services.  
-Their fully automated and digitized supply chain helped them grow from:
+[Samokat.Tech](https://samokat.tech) powers one of Russia’s most innovative grocery delivery services. Their fully automated and digitized supply chain helped them grow from:
 
 - 📦 **1.6M orders/month in 2020**  
 - 🚀 **92M orders in H1 2023**  
