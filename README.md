@@ -18,7 +18,7 @@ This repository contains Data Science projects from domains such as Sports Tech,
 
 * **Description**: Project for GoProtect’s "My Champion" service, which helps coaches assess an athlete’s potential to perform new technical elements based on past competition history.
 * **Goal**: Predict which figure skating elements an athlete is most likely to successfully execute in future competitions.
-* **Tools**: `Python`, `Pandas`, `Scikit-learn`, `PyTorch`, `LightGBM`, `Streamlit`, 're'
+* **Tools**: `Python`, `Pandas`, `Scikit-learn`, `PyTorch`, `LightGBM`, `Streamlit`, `re`
 * **Activity Area**: Sports Tech, Insurance
 * **Technical Area**: `Machine Learning`, `Predictive Analytics`, `Deployment`
 
