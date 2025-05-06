@@ -1,4 +1,5 @@
-## 📁 Project 1: 🧠 Binary Classification — Marketplace Product Matching
+## 📁 [Project 1: 🧠 Binary Classification — Marketplace Product Matching](https://github.com/nirevexin/data-science-projects/tree/main/Binary%20Classification%20%E2%80%93%20Market%20Offers%20Matching)
+
 
 **Date:** January 25, 2024 – February 15, 2024  
 **Company:** [Samokat.Tech](https://samokat.tech) (Remote)  
@@ -131,45 +132,3 @@ Build a model that predicts which technical elements an athlete is likely to suc
 
 ---
 
-## 📚 Certifications & Training
-
-- **Feb–Dec 2023:** Data Science & Analytics — Practicum by Yandex (TripleTen, Moscow)
-- **Oct–Dec 2023:** Linux Systems Admin — CIFO La Violeta, Barcelona
-
----
-
-## 💼 Additional Work & Experience
-
-- **Data Engineering (Aug 2024 – Present):**
-  - Built a data warehouse from scratch on **AWS Redshift** following the Kimball methodology
-  - Created automated ETL pipelines using **boto3, Airflow, S3, EC2, Lambda, Firehose/Kinesis, EventBridge, systemd**
-  - Integrated data from **Litify, AWS Connect, Google Sheets**
-  - Real-time call visualization in **Grafana** via ClickHouse
-  - Designed **Power BI dashboards** from Redshift & Google Sheets
-
-- **Network & Infrastructure Admin (Jul–Aug 2024):**
-  - Managed routers, firewalls, incident response, and security updates
-
-- **Logistics Analyst (Jan–Jun 2024):**
-  - Forecasted delivery flows
-  - Coordinated service SLAs, delivery routes, and reporting across teams
-
-- **2018–2022:**
-  - Roles at **HPE**, **Apple**, **Submer**, **Mango** ranging from data analyst to trainer and customer service
-
----
-
-## 🗂 Folder Structure
-
-```bash
-data-science-projects/
-├── marketplace-product-matching/
-│   ├── data/
-│   ├── notebooks/
-│   └── app/             # Streamlit implementation
-│
-├── athlete-element-prediction/
-│   ├── notebooks/
-│   └── app/
-│
-└── README.md
