@@ -1,6 +1,6 @@
 # 📁 Data Science Projects
 
-This repository contains Data Science projects from domains such as Sports Tech, Insurance and E-Commerce
+This repository contains Data Science projects from E-Commerce and Sports Insurance domains, including product matching for a retail platform and performance prediction for figure skating athletes.
 
 ---
 
