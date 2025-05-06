@@ -1,4 +1,4 @@
-## 📁 [Project 1: 🧠 Binary Classification — Marketplace Product Matching](https://github.com/nirevexin/data-science-projects/tree/main/Binary%20Classification%20%E2%80%93%20Market%20Offers%20Matching)
+## 📁 [Project: 🧠 Binary Classification — Marketplace Product Matching](https://github.com/nirevexin/data-science-projects/tree/main/Binary%20Classification%20%E2%80%93%20Market%20Offers%20Matching)
 
 
 **Date:** January 25, 2024 – February 15, 2024  
@@ -111,7 +111,7 @@ Data provided by **Megamarket**, included:
 For production use, I recommend integrating **Optuna** for automatic hyperparameter optimization to further boost accuracy and training efficiency.
 
 
-## 📁 Project 2: Predictive Modeling for Athlete Element Execution (GoProtect)
+## 📁 Project: Predictive Modeling for Athlete Element Execution (GoProtect)
 
 **Date:** May 17, 2024 – May 31, 2024  
 **Company:** [GoProtect](https://www.goprotect.ru) (Remote)  
@@ -121,8 +121,8 @@ For production use, I recommend integrating **Optuna** for automatic hyperparame
 Build a model that predicts which technical elements an athlete is likely to successfully perform in competition, using historical competition data.
 
 ### 🔧 Stack
-- Python (Pandas, Scikit-learn, PyTorch, CatBoost, LGBM, re)
-- Jupyter Notebooks
+- Python (Pandas, Scikit-learn, PyTorch, LGBM, re)
+- Jupyter Notebook, VSCode
 - Deployed via **Streamlit**
 
 ### 🚀 Results
